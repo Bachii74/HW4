@@ -1,0 +1,14 @@
+/Users/haydenbacci/RiderProjects/HW4/HW4/obj/Debug/net10.0/HW4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haydenbacci/RiderProjects/HW4/HW4/obj/Debug/net10.0/HW4.AssemblyInfoInputs.cache
+/Users/haydenbacci/RiderProjects/HW4/HW4/obj/Debug/net10.0/HW4.AssemblyInfo.cs
+/Users/haydenbacci/RiderProjects/HW4/HW4/obj/Debug/net10.0/HW4.csproj.CoreCompileInputs.cache
+/Users/haydenbacci/RiderProjects/HW4/HW4/bin/Debug/net10.0/HW4
+/Users/haydenbacci/RiderProjects/HW4/HW4/bin/Debug/net10.0/HW4.deps.json
+/Users/haydenbacci/RiderProjects/HW4/HW4/bin/Debug/net10.0/HW4.runtimeconfig.json
+/Users/haydenbacci/RiderProjects/HW4/HW4/bin/Debug/net10.0/HW4.dll
+/Users/haydenbacci/RiderProjects/HW4/HW4/bin/Debug/net10.0/HW4.pdb
+/Users/haydenbacci/RiderProjects/HW4/HW4/obj/Debug/net10.0/HW4.dll
+/Users/haydenbacci/RiderProjects/HW4/HW4/obj/Debug/net10.0/refint/HW4.dll
+/Users/haydenbacci/RiderProjects/HW4/HW4/obj/Debug/net10.0/HW4.pdb
+/Users/haydenbacci/RiderProjects/HW4/HW4/obj/Debug/net10.0/HW4.genruntimeconfig.cache
+/Users/haydenbacci/RiderProjects/HW4/HW4/obj/Debug/net10.0/ref/HW4.dll
